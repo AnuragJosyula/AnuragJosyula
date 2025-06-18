@@ -2,24 +2,44 @@
 
 🎓 Computer Engineering graduate | 💻 DevOps & Cloud Enthusiast 
 
-I'm passionate about using technology to solve real-world problems through automation, cloud infrastructure, and smart workflows. I enjoy building efficient systems, automating manual tasks, and learning new tools that help teams move faster.
+I'm passionate about using technology to solve real-world problems through automation, cloud infrastructure, and smart workflows. I enjoy building scalable systems, optimizing cloud environments, and automating manual processes that improve efficiency.
 
-🔧 I have hands-on experience with:
-- **DevOps Tools**: Jenkins, GitLab CI, Docker, Kubernetes
-- **Cloud Platforms**: AWS, GCP
-- **Infrastructure as Code**: Terraform, Ansible
-- **Scripting**: Python, Bash
-- **Data Tools**: Excel, Google Sheets automation, Zapier (exploring)
+---
 
-🚀 Currently exploring:
-- Workflow automation with **Zapier**
-- Deployments with **GitHub Actions**
-- Monitoring & observability tools
+### 🛠 Technical Skills
 
-📌 Always open to:
-- Internships or roles in DevOps, Site Reliability, or Cloud Engineering
-- Collaborating on open-source projects
-- Learning new technologies
+**DevOps & Infrastructure:**
+- CI/CD Tools: Jenkins, GitLab CI, SonarQube, Nexus
+- Infrastructure as Code (IaC): Terraform, Ansible
+- Containerization: Docker, Kubernetes
+- Version Control: Git, GitHub
 
-📫 Let’s connect:  
-[LinkedIn](https://linkedin.com/in/anurag-josyula) | [Email](mailto:anuragjosyula1234@gmail.com)
+**Cloud Platforms:**
+- AWS (EC2, S3, RDS, CloudWatch)
+- GCP (basic experience)
+- Microsoft Azure (basic experience)
+
+**Languages & Scripting:**
+- Python, Shell Scripting (Bash), C, SQL, PowerShell
+
+**Monitoring & Tools:**
+- Grafana, Wireshark, Cisco Packet Tracer, Jira, MATLAB
+
+**Office & Data Tools:**
+- Microsoft Excel, Word, PowerPoint
+- Google Sheets, Google Suite
+- Automation: Zapier (learning actively)
+
+**Technical Concepts:**
+- DevOps Methodologies, CI/CD Pipelines, Container Orchestration
+- Infrastructure as Code, IaaS, PaaS, SaaS
+- Networking: TCP/IP, OSI Model, DNS, DHCP, Firewalls, VPC
+
+**Operating Systems:**
+- Windows, Linux, macOS
+
+
+
+
+📧 [anuragjosyula17@gmail.com](mailto:anuragjosyula17@gmail.com)  
+💼 [LinkedIn – Anurag Josyula](https://linkedin.com/in/anurag-josyula)  
