@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Hi, I'm Anurag Josyula
 
-<!--
-**AnuragJosyula/AnuragJosyula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering graduate | 💻 DevOps & Cloud Enthusiast | 📍 Based in Kendall Park, NJ
 
-Here are some ideas to get you started:
+I'm passionate about using technology to solve real-world problems through automation, cloud infrastructure, and smart workflows. I enjoy building efficient systems, automating manual tasks, and learning new tools that help teams move faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I have hands-on experience with:
+- **DevOps Tools**: Jenkins, GitLab CI, Docker, Kubernetes
+- **Cloud Platforms**: AWS, GCP
+- **Infrastructure as Code**: Terraform, Ansible
+- **Scripting**: Python, Bash
+- **Data Tools**: Excel, Google Sheets automation, Zapier (exploring)
+
+🚀 Currently exploring:
+- Workflow automation with **Zapier**
+- Deployments with **GitHub Actions**
+- Monitoring & observability tools
+
+📌 Always open to:
+- Internships or roles in DevOps, Site Reliability, or Cloud Engineering
+- Collaborating on open-source projects
+- Learning new technologies
+
+📫 Let’s connect:  
+[LinkedIn](https://linkedin.com/in/anurag-josyula) | [Email](mailto:anuragjosyula1234@gmail.com)
