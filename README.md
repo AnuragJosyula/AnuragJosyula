@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Anurag Josyula
 
-🎓 Computer Engineering graduate | 💻 DevOps & Cloud Enthusiast | 📍 Based in Kendall Park, NJ
+🎓 Computer Engineering graduate | 💻 DevOps & Cloud Enthusiast 
 
 I'm passionate about using technology to solve real-world problems through automation, cloud infrastructure, and smart workflows. I enjoy building efficient systems, automating manual tasks, and learning new tools that help teams move faster.
 
