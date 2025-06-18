@@ -41,5 +41,5 @@ I'm passionate about using technology to solve real-world problems through autom
 
 
 
-📧 [anuragjosyula17@gmail.com](mailto:anuragjosyula17@gmail.com)  
+📧 [anuragjosyula1234@gmail.com](mailto:anuragjosyula1234@gmail.com)  
 💼 [LinkedIn – Anurag Josyula](https://linkedin.com/in/anurag-josyula)  
