@@ -15,9 +15,9 @@ I'm passionate about using technology to solve real-world problems through autom
 - Version Control: Git, GitHub
 
 **Cloud Platforms:**
-- AWS (EC2, S3, RDS, CloudWatch)
-- GCP (basic experience)
-- Microsoft Azure (basic experience)
+- AWS
+- GCP
+- Microsoft Azure
 
 **Languages & Scripting:**
 - Python, Shell Scripting (Bash), C, SQL, PowerShell
