@@ -1,7 +1,7 @@
 <h1 align="center">
   Hey there 👋 I'm Anurag Josyula
   <br>
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20%7C%20Cloud%20+%20Automation%20Enthusiast;CI%2FCD%20+%20Docker%20+%20K8s%20Expertise;Exploring%20AWS%2C%20Azure%2C%20GCP%20and%20Beyond...&center=true&width=700&height=30&pause=1000&color=4FC08D&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20+%20Cloud%20Engineer%20%7C%20Network%20Infrastructure%20Enthusiast;CI%2FCD%2C%20Docker%2C%20K8s%2C%20AWS%20%7C%20TCP%2FIP%2C%20Firewalls%2C%20Monitoring...&center=true&width=700&height=30&pause=1000&color=4FC08D&vCenter=true&size=22" />
 </h1>
 
 <p align="center">
@@ -14,54 +14,55 @@
 
 ### 💡 About Me
 
-🚀 I'm a **cloud and DevOps enthusiast** with a passion for automation, infrastructure, and scalable systems. I’m constantly exploring cloud platforms like **AWS**, **Azure**, and **GCP**, and building solutions using **DevOps best practices**.
+🚀 I'm a **DevOps, Cloud, and Networking enthusiast** with hands-on experience in building automated pipelines, deploying scalable infrastructure, and supporting networked systems. I’ve worked across cloud environments, hybrid IT, and endpoint support, and I’m passionate about keeping systems **resilient, secure, and optimized**.
 
-💻 I love working with:
-- CI/CD pipelines
-- Containerization (Docker, Kubernetes)
-- Infrastructure as Code (Terraform, Ansible)
-- Cloud-native tools and monitoring systems
-
-🧠 I thrive on learning, optimizing, and making technology work better — faster, safer, and smarter.
+🔧 I bring a unique blend of experience:
+- Setting up and automating CI/CD workflows
+- Deploying containers and cloud-native applications
+- Troubleshooting systems, endpoints, and networks
+- Monitoring, logging, and securing infrastructure at scale
 
 ---
 
 ### 🧰 Tech Toolbox
 
-#### 🛠️ Tools & DevOps
-`Docker` · `Kubernetes` · `Jenkins` · `Git` · `GitHub` · `GitHub Actions` · `Ansible` · `Terraform` · `SonarQube` · `Nexus` · `ArgoCD`
+#### 🛠️ DevOps & Automation
+`Docker` · `Kubernetes` · `Jenkins` · `GitHub Actions` · `Git` · `Ansible` · `Terraform` · `ArgoCD` · `SonarQube` · `Nexus`
 
 #### ☁️ Cloud Platforms
-`AWS` · `Azure` · `Google Cloud Platform (GCP)`
+`AWS` · `Azure` · `GCP`
 
-#### 📦 Configuration & Monitoring
-`Jira` · `Grafana` · `CloudWatch` · `Wireshark` · `Cisco Packet Tracer`
+#### 🌐 Networking & Infrastructure
+`TCP/IP` · `OSI Model` · `DNS` · `DHCP` · `VPC` · `Firewalls` · `Switching & Routing` · `Wireless Security` · `Cisco Packet Tracer` · `Wireshark`
+
+#### 📈 Monitoring & Management
+`Grafana` · `CloudWatch` · `Jira` · `Zabbix` (learning)
+
+#### 🖥️ Operating Systems & Support
+`Linux` · `Windows` · `macOS`  
+(Troubleshooting, configuration, A/V setup, asset management, scripting)
 
 #### 💬 Languages & Scripting
 `Python` · `Shell Script` · `C` · `SQL` · `PowerShell`
-
-#### 🌐 Networking Knowledge
-`TCP/IP` · `OSI Model` · `DNS` · `DHCP` · `VPC` · `Firewalls` · `Wireless Security`
-
-#### 💻 Operating Systems
-`Linux` · `Windows` · `macOS`
 
 ---
 
 ### 🧪 Projects & Highlights
 
-- 🔁 Full CI/CD pipelines using Jenkins, Docker, SonarQube, kubernetes, ArgoCD
-- 🌐 Django web deployment using Docker and GitHub Actions
-- 📦 Kubernetes deployments and GitOps workflows with ArgoCD
+- 🔁 Built a complete CI/CD pipeline using Jenkins, Docker, SonarQube, and Kubernetes
+- 🛰️ Set up GitOps workflows using ArgoCD on Minikube/EC2
+- 🌐 Deployed a Django web app with Docker and GitHub Actions for streamlined delivery
+- 🛠️ Supported Linux/macOS/Windows systems in hybrid environments with 97% resolution satisfaction
+- 🔍 Used Wireshark and CLI tools for real-time network analysis and troubleshooting
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect!
 
-📧 anuragjosyula07@gmail.com  
+📧 anuragjosyula17@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/anurag-josyula/)  
 🌐 [GitHub](https://github.com/AnuragJosyula)
 
 ---
 
-> ✨ _Driven by curiosity. Powered by automation. Always building._ ⚙️
+> ✨ _Always learning. Always optimizing. Making infrastructure smarter, one commit at a time._ ⚙️
