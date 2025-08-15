@@ -50,7 +50,7 @@
 ### 🧪 Projects & Highlights
 
 - 🔁 Built a complete CI/CD pipeline using Jenkins, Docker, SonarQube, and Kubernetes
-- 🛰️ Set up GitOps workflows using ArgoCD on Minikube/EC2
+- 🛰️ Set up GitOps workflows using ArgoCD on Kubernetes/EC2
 - 🌐 Deployed a Django web app with Docker and GitHub Actions for streamlined delivery
 - 🛠️ Supported Linux/macOS/Windows systems in hybrid environments with 97% resolution satisfaction
 - 🔍 Used Wireshark and CLI tools for real-time network analysis and troubleshooting
