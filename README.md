@@ -21,6 +21,7 @@
 - Deploying containers and cloud-native applications
 - Troubleshooting systems, endpoints, and networks
 - Monitoring, logging, and securing infrastructure at scale
+- Asking dumb Questions
 
 ---
 
