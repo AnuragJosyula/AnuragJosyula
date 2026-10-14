@@ -60,7 +60,7 @@
 
 ### 📫 Let's Connect!
 
-📧 anuragjosyula17@gmail.com  
+📧 anuragjosyula1234@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/anurag-josyula/)  
 🌐 [GitHub](https://github.com/AnuragJosyula)
 
